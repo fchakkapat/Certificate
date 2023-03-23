@@ -14,4 +14,4 @@ The certificate is obtained from studying online courses and seminars. The cours
 | Github for developer | BorntoDev |
 
 ### 🔗 Link
-[![certificate](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/drive/folders/1_o3ekgnN4iojz8_03MVNiY69pU6c-wfv?usp=share_link/)
+[![certificate](https://img.shields.io/badge/View%20site-Certificates-blue)](https://drive.google.com/drive/folders/1_o3ekgnN4iojz8_03MVNiY69pU6c-wfv?usp=share_link/)
